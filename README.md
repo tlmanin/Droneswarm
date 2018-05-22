@@ -1,5 +1,5 @@
 # Droneswarm
-Bachelor spring 2018 OsloMet Electronic engineering
+Bachelor's thesis. Spring 2018 OsloMet Electronic engineering
 
 ABSTRACT:
 
